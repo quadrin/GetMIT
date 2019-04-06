@@ -109,7 +109,7 @@ p {
   line-height: 1.65; }
 
 a {
-  color: #556B2F; /*orig color* #A31F34*/
+  color: #556B2F; 
   font-weight: bold;
   text-decoration: underline;
   cursor: pointer; }
