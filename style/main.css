@@ -83,9 +83,10 @@ h1.title {
   .score-container .score-addition, .best-container .score-addition {
     position: absolute;
     right: 30px;
-    color: red;
+    color: #556B2F;
     font-size: 25px;
-    line-height: 25px;
+    line-height: 2
+      5px;
     font-weight: bold;
     color: rgba(119, 110, 101, 0.9);
     z-index: 100;
@@ -108,7 +109,7 @@ p {
   line-height: 1.65; }
 
 a {
-  color: #A31F34;
+  color: #556B2F; /*orig color* #A31F34*/
   font-weight: bold;
   text-decoration: underline;
   cursor: pointer; }
